@@ -96,8 +96,6 @@ Answer:
 
 ---
 
----
-
 ### 📌 Notes
 
 * Works best with technical documentation PDFs.
