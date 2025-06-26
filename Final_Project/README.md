@@ -97,12 +97,5 @@ Answer:
 
 ### 📌 Notes
 
-* Works best with technical documentation PDFs.
-* You can expand the system to ingest multiple PDFs or even websites.
+* Works btter with technical documentation PDFs.
 * This is useful for personal assistants, DevOps onboarding, and documentation QA bots.
-
----
-
-### 📖 License
-
-MIT License – feel free to modify and share!
